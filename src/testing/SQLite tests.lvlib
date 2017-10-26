@@ -10,47 +10,47 @@
 	<Item Name="Test defs" Type="Folder">
 		<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../Add Remove Test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:Add Remove Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">0AB7958B-3740-643D-D1A4-53424977DD77</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">411C7E5D-C71F-46A2-E423-22ADF7708A81</Property>
 		</Item>
 		<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:config crosslink test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">7B316D4E-2CEA-AC6B-07DB-D2565064D6F3</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">1611A0B2-AD29-FEC4-010E-E2B2A02D7E97</Property>
 		</Item>
 		<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../Duplicate Name Error Test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:Duplicate Name Error Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">DCF2315C-D729-2CDE-DCF6-291F3D735FEA</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">42791C5D-D6A1-668F-5455-D1FA69D7AC74</Property>
 		</Item>
 		<Item Name="example test.lvtest" Type="TestItem" URL="../example test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:example test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">406AC964-A97E-4ED8-C2E7-5CE75A94CE8A</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">2FF6B1F4-CDF8-F4B3-455B-60D3EC3C769B</Property>
 		</Item>
 		<Item Name="Find Duplicate Test.lvtest" Type="TestItem" URL="../Find Duplicate Test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:Find Duplicate Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">E10DD4B2-95B7-ABEE-0572-80C0CDC99344</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">D818235E-5D10-12FA-0AA0-9CEEA0CB7A24</Property>
 		</Item>
 		<Item Name="get channels test.lvtest" Type="TestItem" URL="../get channels test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:get channels test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">E352066C-BCC0-A649-366A-74D7D066E867</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">FB75A224-E425-7091-C086-6E3AE621AEA1</Property>
 		</Item>
 		<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:init runtime test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">5DD1C691-4A99-4337-0345-0559F8EC2D8E</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">4F792816-9B10-06AA-2030-929FC4FA757A</Property>
 		</Item>
 		<Item Name="modify channel test.lvtest" Type="TestItem" URL="../modify channel test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:modify channel test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">059935E7-3BA4-6567-8FA9-DBF98492CE4A</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">4284847B-27D8-0CD1-F259-6F52121F165E</Property>
 		</Item>
 		<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../runtime to editor crosslink test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:runtime to editor crosslink test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">90716948-0FA1-9939-A934-86B14AAF1970</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">38E941C4-29D4-9C0C-46DF-3BCEB821E9D3</Property>
 		</Item>
 		<Item Name="serialization tests.lvtest" Type="TestItem" URL="../serialization tests.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:serialization tests.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">5DF80176-0CDC-7D77-E964-9097E10E7131</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">884B565F-EAC5-0CF7-927B-A932E2E0ABEE</Property>
 		</Item>
 		<Item Name="ToTable Test.lvtest" Type="TestItem" URL="../ToTable Test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">SQLite tests.lvlib:ToTable Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">B7C3BFBA-983C-713A-4770-95AF4CAD26BB</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">5C341BAA-6F8E-F25A-0B7C-47944CBFB9A9</Property>
 		</Item>
 	</Item>
 	<Item Name="Test vis" Type="Folder">
